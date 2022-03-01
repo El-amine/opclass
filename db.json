@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "name": "claim1",
+      "description": "Premier claim",
+       "longitude": 13,
+       "latitude":50, 
+       "date":null
+    },
+    {
+      "name": "claim 2",
+      "description": "Deuxième claim",
+       "longitude": 13,
+       "latitude":50, 
+       "date":null
+    },
+    {
+      "name": "claim 3",
+      "description": "Troisième claim",
+       "longitude": 13,
+       "latitude":50, 
+       "date":null
+    },
+    {
+       "name": "claim 4",
+       "description": "Quatrième claim",
+       "longitude": 13,
+       "latitude":50, 
+       "date":null
+    },
+  ]  
+  
+}

@@ -22,5 +22,13 @@
        "latitude":50, 
        "date":null
     }
+    ,
+    {
+       "name": "claim 4",
+       "description": "Quatrième claim",
+       "longitude": 13,
+       "latitude":50, 
+       "date":null
+    }
   ]
 }

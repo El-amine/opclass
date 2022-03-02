@@ -1,43 +1,47 @@
 {
   "data": [
     {
-      "name": "claim1",
-      "description": "Premier claim",
+       "name": "claim1",
+       "description": "Premier claim",
+	   "type":"Salubrité",
        "longitude": 13,
        "latitude":50, 
        "date":"2022-03-01T09:45:00.000",
 	   "created":"2022-03-01T09:45:00.000",
-	   "update":"2022-03-01T09:45:00.000",
+	   "updated":"2022-03-01T09:45:00.000",
 	   "needUpdate":null
     },
     {
       "name": "claim 2",
+	   "type":"Surfacturation",
       "description": "Deuxième claim",
-       "longitude": 13,
-       "latitude":50, 
+      "longitude": 13,
+      "latitude":50, 
       "date":"2022-03-01T09:45:00.000",
 	   "created":"2022-03-01T09:45:00.000",
-	   "update":"2022-03-01T09:45:00.000",
+	   "updated":"2022-03-01T09:45:00.000",
 	    "needUpdate":null
     },
     {
       "name": "claim 3",
+	   "type":"Urbanisation",
       "description": "Troisième claim",
        "longitude": 13,
        "latitude":50, 
       "date":"2022-03-01T09:45:00.000",
 	   "created":"2022-03-01T09:45:00.000",
-	   "update":"2022-03-01T09:45:00.000",
+	   "updated":"2022-03-01T09:45:00.000",
 	    "needUpdate":null
     },
     {
        "name": "claim 4",
+	    "type":"Travaux public",
        "description": "Quatrième claim",
        "longitude": 13,
        "latitude":50, 
        "date":"2022-03-01T09:45:00.000",
 	   "created":"2022-03-01T09:45:00.000",
-	   "update":"2022-03-01T09:45:00.000",
+	   "updated":"2022-03-01T09:45:00.000",
 	   "needUpdate":null
     }
   ]

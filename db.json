@@ -5,30 +5,40 @@
       "description": "Premier claim",
        "longitude": 13,
        "latitude":50, 
-       "date":null
+       "date":'2022-03-01T09:45:00.000',
+	   "created":'2022-03-02T09:45:00.000',
+	   "update":'2022-03-02T09:45:00.000',
+	   "needUpdate":null
     },
     {
       "name": "claim 2",
       "description": "Deuxième claim",
        "longitude": 13,
        "latitude":50, 
-       "date":null
-    }
-    ,
+       "date":'2022-03-01T09:45:00.000',
+	   "created":'2022-03-02T09:45:00.000',
+	   "update":'2022-03-02T09:45:00.000',
+	    "needUpdate":null
+    },
     {
       "name": "claim 3",
       "description": "Troisième claim",
        "longitude": 13,
        "latitude":50, 
-       "date":null
-    }
-    ,
+       "date":'2022-03-01T09:45:00.000',
+	   "created":'2022-03-02T09:45:00.000',
+	   "update":'2022-03-02T09:45:00.000',
+	    "needUpdate":null
+    },
     {
        "name": "claim 4",
        "description": "Quatrième claim",
        "longitude": 13,
        "latitude":50, 
-       "date":null
+       "date":'2022-03-01T09:45:00.000',
+	   "created":'2022-03-02T09:45:00.000',
+	   "update":'2022-03-02T09:45:00.000',
+	   "needUpdate":null
     }
   ]
 }

@@ -6,9 +6,9 @@
 	   "type":"Salubrité",
        "longitude": 13,
        "latitude":50, 
-       "date":"2022-03-01T09:45:00.000",
-	   "created":"2022-03-01T09:45:00.000",
-	   "updated":"2022-03-01T09:45:00.000",
+       "date":"2022-03-01T09:45:00.000Z",
+	   "created":"2022-03-01T09:45:00.000Z",
+	   "updated":"2022-03-01T09:45:00.000Z",
 	   "needUpdate":null
     },
     {
@@ -17,9 +17,9 @@
       "description": "Deuxième claim",
       "longitude": 13,
       "latitude":50, 
-      "date":"2022-03-01T09:45:00.000",
-	   "created":"2022-03-01T09:45:00.000",
-	   "updated":"2022-03-01T09:45:00.000",
+      "date":"2022-03-01T09:45:00.000Z",
+	   "created":"2022-03-01T09:45:00.000Z",
+	   "updated":"2022-03-01T09:45:00.000Z",
 	    "needUpdate":null
     },
     {
@@ -28,9 +28,9 @@
       "description": "Troisième claim",
        "longitude": 13,
        "latitude":50, 
-      "date":"2022-03-01T09:45:00.000",
-	   "created":"2022-03-01T09:45:00.000",
-	   "updated":"2022-03-01T09:45:00.000",
+      "date":"2022-03-01T09:45:00.000Z",
+	   "created":"2022-03-01T09:45:00.000Z",
+	   "updated":"2022-03-01T09:45:00.000Z",
 	    "needUpdate":null
     },
     {
@@ -39,9 +39,9 @@
        "description": "Quatrième claim",
        "longitude": 13,
        "latitude":50, 
-       "date":"2022-03-01T09:45:00.000",
-	   "created":"2022-03-01T09:45:00.000",
-	   "updated":"2022-03-01T09:45:00.000",
+       "date":"2022-03-01T09:45:00.000Z",
+	   "created":"2022-03-01T09:45:00.000Z",
+	   "updated":"2022-03-01T09:45:00.000Z",
 	   "needUpdate":null
     }
   ]
